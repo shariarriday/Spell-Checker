@@ -1,0 +1,5 @@
+This is just an example of what our program can do
+there is about fivw or six wrong words in this program.
+This will tell us whatt those programs are very effiiently.
+This also works in terminal.
+I am writing somt wrong spelings here to show thst this program wors correctly
